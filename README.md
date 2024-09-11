@@ -1,10 +1,11 @@
+<!--
 ### Hi there 👋
 
 #### I'm a FrontEnd developer always learning new stuff, my projects are usually private (too personal projects 😄) but some of those will be public so it's a reference for myself in the future and a way to get rid of the rust on a previously used language.
 
 ### Currently working for clients but creating a home server with ✨NextJS, Strapi, Storybook and ⚡more!, stay tuned!!
 
-<!--
+
 **Kreutz56/Kreutz56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
